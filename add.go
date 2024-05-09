@@ -1,4 +1,4 @@
-// Package go_module_test is a single-package testing module for importing third-party dependencies into a module
+// Package test_package is a single-package testing module for importing third-party dependencies into a module
 package test_package
 
 // Add adds 2 integer values together and returns the result
